@@ -1,0 +1,16 @@
+{
+  "name": "update_domain_ipv6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "tencentcloud-sdk-nodejs": "^4.0.259"
+  }
+}
