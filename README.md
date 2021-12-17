@@ -16,3 +16,7 @@ Node.js写的， npm install即可
 ## Background  
 家用宽带的IPV6的公网是通的！！再也不用花生壳了！！
 NAS / P2P / 文件传输 / 音视频可以搞起来了！！
+
+## TODO & see also  
+https://github.com/NewFuture/DDNS/releases/tag/v2.10.3  
+https://docs.microsoft.com/en-us/windows/win32/taskschd/schtasks?redirectedfrom=MSDN  
