@@ -10,5 +10,5 @@ secretKey=
 
 ## Install
 Node.js写的， npm install即可  
-然后windows上可以双击run.bat。
+然后windows上可以双击run.bat。  
 别的平台自己写别的run脚本  
